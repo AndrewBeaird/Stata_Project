@@ -50,8 +50,8 @@ que las dos siguientes (Prop. Hombres y Prop. Mujeres ) corresponden a una propo
 Para la primera columna no utilice decimales, y para las segunda y tercera entregue las
 participaciones de cada género con 3 decimales.
 
-# (γ) Caracterice la Cotización Previsional (o29) de la población chilena construyendo el Cuadro
-(3). Para esto usted deberá notar que este Cuadro no cuenta con una fila final llamada
+# (γ) Caracterice la Cotización Previsional (o29) de la población chilena construyendo el Cuadro 3.
+Para esto usted deberá notar que este Cuadro no cuenta con una fila final llamada
 Total como aparecía en las anteriores. Esto se debe a que este Cuadro representa solamente
 participaciones porcentuales, por ende, la suma vertical de cada columna debe ser igual a uno
 (100 %). o en términos formales. Entregue sus valores usando 3 decimales.
