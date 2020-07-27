@@ -3,11 +3,9 @@ Stata project during graduate school.
 
 # Estadística Descriptiva (35 %)
 
-Utilizando el subconjunto de la base de datos CASEN 2017 que se le ha entregado [sub set casen2017 v11.dta]
+Utilizando el subconjunto de la base de datos CASEN 2017 que se le ha entregado [sub set casen2017 v11.dta] calcule los ítem (α), (β) y (γ). 
 
-calcule los ítem (α), (β) y (γ)
-
-. A pesar de que debió haber quedado claro durante las sesiones del
+A pesar de que debió haber quedado claro durante las sesiones del
 taller, no está de más recalcar que todas las tablas solicitadas en esta sección deben ser realizadas
 mediante el uso de loops (forvalues, foreach, while, etc) y matrices, para luego ser exportadas en
 formato LATEXy ser impresas en formato pdf. De no realizar los procedimientos recién descritos, por
