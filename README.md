@@ -17,36 +17,33 @@ Caracterice la distribución de ingresos (yoprcor) por años de escolaridad (esc
 En la construcción de su Cuadro debe
 tener presente lo siguiente:
 
-• ni representa cantidad de personas con i ños de escolaridad.
+• Columna 1 representa cantidad de personas con i años de escolaridad.
 
-• x¯i representa la media del ingreso con i a˜nos de escolaridad.
+• Columna 2 representa la media del ingreso con i años de escolaridad.
 
-• nh,i es la cantidad de hombres con i años de escolaridad.
+• Columna 3 es la cantidad de hombres con i años de escolaridad.
 
-• h¯i representa la media del ingreso de los hombres con i a˜nos de escolaridad.
+• Columna 4 representa la media del ingreso de los hombres con i años de escolaridad.
 
-• nm,i es la cantidad de mujeres con i años de escolaridad
+• Columna 5 es la cantidad de mujeres con i años de escolaridad
 
-• m¯ i representa la media del ingreso de las mujeres con i a˜nos de escolaridad.
+• Columna 6 representa la media del ingreso de las mujeres con i años de escolaridad.
 
-• H¯ representa la media del ingreso de los hombres.
+• Columna 7 representa la media del ingreso de los hombres.
 
-• M¯ representa la media del ingreso de las mujeres.
+• Columna 8 representa la media del ingreso de las mujeres.
 
-• t-stat corresponde al estadístico t resultante del test de medias realizado sobre el ingreso
+• Columna 9 corresponde al estadístico t resultante del test de medias realizado sobre el ingreso
 separando por hombres y mujeres.
 
 # (β) Caracterice la Inclusión Financiera nacional (y27a-y27g) construyendo el Cuadro (2).
 Para esto usted debe notar que:
 
-• fi corresponde a la frecuencia absoluta del grupo i, por ende P7
-i=1 fi = F
+• Column 1 corresponde a la frecuencia absoluta del grupo i.F
 
-• hi corresponde a la frecuencia absoluta de hombres del grupo, por ende P7
-i=1 hi = H
+• Column 2 corresponde a la frecuencia absoluta de hombres del grupo.
 
-• mi corresponde a la frecuencia absoluta de mujeres del grupo, por ende P7
-i=1 mi = M
+• Column 3 corresponde a la frecuencia absoluta de mujeres del grupo.
 
 De esta forma, la primera columna Total corresponde a una frecuancia absoluta, mientras
 que las dos siguientes (Prop. Hombres y Prop. Mujeres ) corresponden a una proporción.
@@ -57,13 +54,7 @@ participaciones de cada género con 3 decimales.
 (3). Para esto usted deberá notar que este Cuadro no cuenta con una fila final llamada
 Total como aparecía en las anteriores. Esto se debe a que este Cuadro representa solamente
 participaciones porcentuales, por ende, la suma vertical de cada columna debe ser igual a uno
-(100 %), o en términos formales . P8
-i=1 αi =
-P8
-i=1 βi =
-P8
-i=1 δi = 100 %. Entregue sus
-valores usando 3 decimales.
+(100 %). o en términos formales. Entregue sus valores usando 3 decimales.
 
 # Generación de Variables (35 %)
 
