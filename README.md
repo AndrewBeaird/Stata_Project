@@ -67,7 +67,6 @@ valores usando 3 decimales.
 
 # Generación de Variables (35 %)
 
-# Nivel Principiante (15 %)
 Siguiendo con la base utilizada en la sección anterior realice lo siguiente:
 (a) Genere una variable llamada n comuna que contenga la cantidad de personas que fueron
 encuestadas en cada comuna.
