@@ -4,9 +4,9 @@ Stata project during graduate school.
 # Estadística Descriptiva (35 %)
 
 Utilizando el subconjunto de la base de datos CASEN 2017 que se le ha entregado [sub set casen2017 v11.dta]
-4
+
 calcule los ítem (α), (β) y (γ)
-5
+
 . A pesar de que debió haber quedado claro durante las sesiones del
 taller, no está de más recalcar que todas las tablas solicitadas en esta sección deben ser realizadas
 mediante el uso de loops (forvalues, foreach, while, etc) y matrices, para luego ser exportadas en
@@ -24,13 +24,13 @@ i=0 ni = N
 
 • x¯i representa la media del ingreso con i a˜nos de escolaridad.
 
-• nh,i es la cantidad de hombres con i a˜nos de escolaridad, por ende P22
+• nh,i es la cantidad de hombres con i años de escolaridad, por ende P22
 i=0 nh,i = Nh
 
 • h¯
 i representa la media del ingreso de los hombres con i a˜nos de escolaridad.
 
-• nm,i es la cantidad de mujeres con i a˜nos de escolaridad, por ende P22
+• nm,i es la cantidad de mujeres con i años de escolaridad, por ende P22
 i=0 nm,i = Nm
 
 • m¯ i representa la media del ingreso de las mujeres con i a˜nos de escolaridad.
