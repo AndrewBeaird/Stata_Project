@@ -17,19 +17,15 @@ Caracterice la distribución de ingresos (yoprcor) por años de escolaridad (esc
 En la construcción de su Cuadro debe
 tener presente lo siguiente:
 
-• ni representa cantidad de personas con i ños de escolaridad, por ende P22
-i=0 ni = N
+• ni representa cantidad de personas con i ños de escolaridad.
 
 • x¯i representa la media del ingreso con i a˜nos de escolaridad.
 
-• nh,i es la cantidad de hombres con i años de escolaridad, por ende P22
-i=0 nh,i = Nh
+• nh,i es la cantidad de hombres con i años de escolaridad.
 
-• h¯
-i representa la media del ingreso de los hombres con i a˜nos de escolaridad.
+• h¯i representa la media del ingreso de los hombres con i a˜nos de escolaridad.
 
-• nm,i es la cantidad de mujeres con i años de escolaridad, por ende P22
-i=0 nm,i = Nm
+• nm,i es la cantidad de mujeres con i años de escolaridad
 
 • m¯ i representa la media del ingreso de las mujeres con i a˜nos de escolaridad.
 
