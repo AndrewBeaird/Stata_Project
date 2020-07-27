@@ -1,7 +1,7 @@
 # Stata_Project
 Stata project during graduate school.
 
-# Evaluaci´on No Presencial
+# Evaluación No Presencial
 # Estad´ıstica Descriptiva (35 %)
 
 Utilizando el subconjunto de la base de datos CASEN 2017 que se le ha entregado [sub set casen2017 v11.dta]
