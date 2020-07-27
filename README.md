@@ -146,7 +146,7 @@ estimaciones del Cuadro (5)
 (market book) en un grupo de variables llamado “Assets” y las variables Logaritmo de las
 Ventas (ln sales) y Profit (porf ) en otro llamado “Performance”. Es decir replique la Cuadro
 (6)
-Cuad
+
 
 
 
