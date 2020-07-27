@@ -18,29 +18,42 @@ no tendrá puntaje.
 Caracterice la distribución de ingresos (yoprcor) por años de escolaridad (esc) separandopor hombres y mujeres construyendo el Cuadro (1). 
 En la construcción de su Cuadro debe
 tener presente lo siguiente:
+
 • ni representa cantidad de personas con i ños de escolaridad, por ende P22
 i=0 ni = N
+
 • x¯i representa la media del ingreso con i a˜nos de escolaridad.
+
 • nh,i es la cantidad de hombres con i a˜nos de escolaridad, por ende P22
 i=0 nh,i = Nh
+
 • h¯
 i representa la media del ingreso de los hombres con i a˜nos de escolaridad.
+
 • nm,i es la cantidad de mujeres con i a˜nos de escolaridad, por ende P22
 i=0 nm,i = Nm
+
 • m¯ i representa la media del ingreso de las mujeres con i a˜nos de escolaridad.
+
 • H¯ representa la media del ingreso de los hombres.
+
 • M¯ representa la media del ingreso de las mujeres.
+
 • t-stat corresponde al estadístico t resultante del test de medias realizado sobre el ingreso
 separando por hombres y mujeres.
 
 # (β) Caracterice la Inclusión Financiera nacional (y27a-y27g) construyendo el Cuadro (2).
 Para esto usted debe notar que:
+
 • fi corresponde a la frecuencia absoluta del grupo i, por ende P7
 i=1 fi = F
+
 • hi corresponde a la frecuencia absoluta de hombres del grupo, por ende P7
 i=1 hi = H
+
 • mi corresponde a la frecuencia absoluta de mujeres del grupo, por ende P7
 i=1 mi = M
+
 De esta forma, la primera columna Total corresponde a una frecuancia absoluta, mientras
 que las dos siguientes (Prop. Hombres y Prop. Mujeres ) corresponden a una proporción.
 Para la primera columna no utilice decimales, y para las segunda y tercera entregue las
