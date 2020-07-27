@@ -8,7 +8,7 @@ Utilizando el subconjunto de la base de datos CASEN 2017 que se le ha entregado 
 calcule los ítem (α), (β) y (γ)
 5
 . A pesar de que debió haber quedado claro durante las sesiones del
-taller, no está de más recalcar que todas las tablas solicitadas en esta seccién deben ser realizadas
+taller, no está de más recalcar que todas las tablas solicitadas en esta sección deben ser realizadas
 mediante el uso de loops (forvalues, foreach, while, etc) y matrices, para luego ser exportadas en
 formato LATEXy ser impresas en formato pdf. De no realizar los procedimientos recién descritos, por
 ejemplo, generando la tabla en Excel o copiando y pegando desde el output de STATA, esta parte
