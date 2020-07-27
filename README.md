@@ -15,7 +15,7 @@ ejemplo, generando la tabla en Excel o copiando y pegando desde el output de STA
 no tendrá puntaje.
 
 # (α) Caracterice la distribución de ingresos (yoprcor) por años de escolaridad (esc) separando
-Caracterice la distribuci´on de ingresos (yoprcor) por a˜nos de escolaridad (esc) separandopor hombres y mujeres construyendo el Cuadro (1). 
+Caracterice la distribución de ingresos (yoprcor) por años de escolaridad (esc) separandopor hombres y mujeres construyendo el Cuadro (1). 
 En la construcción de su Cuadro debe
 tener presente lo siguiente:
 • ni representa cantidad de personas con i ños de escolaridad, por ende P22
