@@ -75,9 +75,10 @@ el string “Región Metropolitana”, y los ceros con “Región Diferente a la
 (“yoprcor”) por región.
 
 A usted se le ha entregado la base da datos base productos la cual contiene 6 variables que
-caracterizan el desempeño económico de una serie de firmas entre el a˜no 2000 y 2006 para diferentes
+caracterizan el desempeño económico de una serie de firmas entre el año 2000 y 2006 para diferentes
 productos que estas comercializaron en dicho periodo. Las variables contenidas en la base se detallan
 a continuación:
+
 firma : Corresponde al identificador de la Firma (i)
 year: Variable Indicador que identifica el periodo t de la firma (i).
 id prod: Variable que identifica el producto (j) vendido en el periodo (t) por la firma (i).
