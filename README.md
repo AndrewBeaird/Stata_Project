@@ -39,7 +39,7 @@ separando por hombres y mujeres.
 # (β) Caracterice la Inclusión Financiera nacional (y27a-y27g) construyendo el Cuadro (2).
 Para esto usted debe notar que:
 
-• Column 1 corresponde a la frecuencia absoluta del grupo i.F
+• Column 1 corresponde a la frecuencia absoluta del grupo i.
 
 • Column 2 corresponde a la frecuencia absoluta de hombres del grupo.
 
@@ -74,9 +74,8 @@ el string “Región Metropolitana”, y los ceros con “Región Diferente a la
 (d) Genere una variable que contenga la cantidad mujeres que ganan más de un millón de pesos
 (“yoprcor”) por región.
 
-Nivel Experto (20 %)
 A usted se le ha entregado la base da datos base productos la cual contiene 6 variables que
-caracterizan el desempe˜no económico de una serie de firmas entre el a˜no 2000 y 2006 para diferentes
+caracterizan el desempeño económico de una serie de firmas entre el a˜no 2000 y 2006 para diferentes
 productos que estas comercializaron en dicho periodo. Las variables contenidas en la base se detallan
 a continuación:
 firma : Corresponde al identificador de la Firma (i)
@@ -88,6 +87,7 @@ ventas: Corresponde a las ventas reales que realizó la empresa (i) durante el p
 el producto (j).
 costos Corresponde a los costos en los que incurrió la firma (i) durante el periodo (t) para
 el producto (j)
+
 A continuación usted deberá resolver las siguientes preguntas:
 1. Genere una variable llamada prod loss que identifique los productos que no lograron cubrir
 sus costos independiente de la firma que lo produjo y el tiempo en el que fue vendido. Esta
@@ -102,10 +102,10 @@ variable cumple meta
 para todo el periodo t si es que la firma logró cumplir sus metas de ventas en TODOS
 sus productos j y un 0 si es que fracasó en cumplir sus metas de ventas en al menos un
 producto.
-5. Genere una variable que muestre el promedio de ventas por firma (i) y a˜no (t) y llámela
+5. Genere una variable que muestre el promedio de ventas por firma (i) y año (t) y llámela
 ventas mean.
 6. Genere una variable llamada costos mean que muestre el promedio de los costos por firma
-(i) y a˜no (t).
+(i) y año (t).
 7. Adicionalmente deberá crear una variable llamada prod mas vendido que contenga el producto que tuvo la mayor cantidad de ventas por periodo y firma.
 
 Al finalizar esta parte usted debería terminar con una base de datos que, para la primera
@@ -128,8 +128,7 @@ estimaciones del Cuadro (5)
 
 (c) Ahora sobre la Cuadro (5), agrupe las variables Tangibility (tang) y Market to book Ratio
 (market book) en un grupo de variables llamado “Assets” y las variables Logaritmo de las
-Ventas (ln sales) y Profit (porf ) en otro llamado “Performance”. Es decir replique la Cuadro
-(6)
+Ventas (ln sales) y Profit (porf ) en otro llamado “Performance”. Es decir replique la Cuadro (6)
 
 
 
