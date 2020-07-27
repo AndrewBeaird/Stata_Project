@@ -14,7 +14,7 @@ formato LATEXy ser impresas en formato pdf. De no realizar los procedimientos re
 ejemplo, generando la tabla en Excel o copiando y pegando desde el output de STATA, esta parte
 no tendrá puntaje.
 
-# (α) Caracterice la distribución de ingresos (yoprcor) por a˜nos de escolaridad (esc) separando
+# (α) Caracterice la distribución de ingresos (yoprcor) por años de escolaridad (esc) separando
 por hombres y mujeres construyendo el Cuadro (1). En la construcción de su Cuadro debe
 tener presente lo siguiente:
 • ni representa cantidad de personas con i ños de escolaridad, por ende P22
