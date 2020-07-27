@@ -54,7 +54,7 @@ participaciones de cada género con 3 decimales.
 Para esto usted deberá notar que este Cuadro no cuenta con una fila final llamada
 Total como aparecía en las anteriores. Esto se debe a que este Cuadro representa solamente
 participaciones porcentuales, por ende, la suma vertical de cada columna debe ser igual a uno
-(100 %). o en términos formales. Entregue sus valores usando 3 decimales.
+(100 %). Entregue sus valores usando 3 decimales.
 
 # Generación de Variables (35 %)
 
