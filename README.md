@@ -80,33 +80,46 @@ productos que estas comercializaron en dicho periodo. Las variables contenidas e
 a continuación:
 
 firma : Corresponde al identificador de la Firma (i)
+
 year: Variable Indicador que identifica el periodo t de la firma (i).
+
 id prod: Variable que identifica el producto (j) vendido en el periodo (t) por la firma (i).
-meta ventas: Corresponde a la meta de ventas que se propuso lograr la firma (i) durante el
+meta 
+
+ventas: Corresponde a la meta de ventas que se propuso lograr la firma (i) durante el
 periodo (t) para el producto (j).
+
 ventas: Corresponde a las ventas reales que realizó la empresa (i) durante el periodo (t) para
 el producto (j).
-costos Corresponde a los costos en los que incurrió la firma (i) durante el periodo (t) para
+
+costos: Corresponde a los costos en los que incurrió la firma (i) durante el periodo (t) para
 el producto (j)
 
 A continuación usted deberá resolver las siguientes preguntas:
+
 1. Genere una variable llamada prod loss que identifique los productos que no lograron cubrir
 sus costos independiente de la firma que lo produjo y el tiempo en el que fue vendido. Esta
 variable debe tomar el valor de 1 si el costo no fue cubierto, un 0 para aquellas firmas que si
 lograron cubrirlos.
+
 2. Genere una variable llamada y prod loss y que tome el valor de 1 para todo el periodo t
 de operación si es que, al menos uno, de los productos no logró cubrir sus costos
+
 3. Genere una variable que muestre si es que el producto j está cumpliendo su meta de ventas
 independiente de la firma que lo produjo y el tiempo en el que fue vendido. Llame a esta
 variable cumple meta
+
 4. Genere una variable que tenga por nombre cumple meta todos que tome el valor de 1
 para todo el periodo t si es que la firma logró cumplir sus metas de ventas en TODOS
 sus productos j y un 0 si es que fracasó en cumplir sus metas de ventas en al menos un
 producto.
+
 5. Genere una variable que muestre el promedio de ventas por firma (i) y año (t) y llámela
 ventas mean.
+
 6. Genere una variable llamada costos mean que muestre el promedio de los costos por firma
 (i) y año (t).
+
 7. Adicionalmente deberá crear una variable llamada prod mas vendido que contenga el producto que tuvo la mayor cantidad de ventas por periodo y firma.
 
 Al finalizar esta parte usted debería terminar con una base de datos que, para la primera
