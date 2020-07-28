@@ -59,8 +59,10 @@ participaciones porcentuales, por ende, la suma vertical de cada columna debe se
 # Generación de Variables (35 %)
 
 Siguiendo con la base utilizada en la sección anterior realice lo siguiente:
+
 (a) Genere una variable llamada n comuna que contenga la cantidad de personas que fueron
 encuestadas en cada comuna.
+
 (b) Genere una variable llamada decil de ingreso que contenga los deciles de ingreso para la
 variable yoprcor. Además de esto, esta variable deberá contener etiquetas sobre los valores
 de modo que cuando, por ejemplo, ejecutemos un “tabulate” sobre esta, aparezca en el primer
@@ -68,11 +70,14 @@ decil (asociado al valor 1) el texto “Primer Decil de Ingreso”, para el segu
 Decil de Ingreso” y así sucesivamente. Recuerde que los deciles deben contener el 10 % de la
 población en cada uno de sus tramos, sea cuidadoso a la hora de revisar si la forma en la que
 realizó sus deciles cumple con esta condición.
+
 (c) Genere una variable que Dummy que tome el valor de 1 si el encuestado reside en la Región
 Metropolitana y 0 en caso contrario. Además de esto etiquete dicha variable el string “Encuestado en Región Metropolitana”. Adicionalmente, etiquete los valores iguales a 1 con
 el string “Región Metropolitana”, y los ceros con “Región Diferente a la Metropolitana”
+
 (d) Genere una variable que contenga la cantidad mujeres que ganan más de un millón de pesos
 (“yoprcor”) por región.
+
 
 A usted se le ha entregado la base da datos base productos la cual contiene 6 variables que
 caracterizan el desempeño económico de una serie de firmas entre el año 2000 y 2006 para diferentes
